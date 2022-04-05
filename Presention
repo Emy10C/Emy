@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="CSS1.css">
+	<title>Présentation</title>
+</head>
+
+<body>
+
+  <header>
+
+	<h1>Présentation</h1>
+
+<p class="traduction">
+  <img src="C:\Users\Emeline\Documents\SiteEmy\english.png" alt="drapeau anglais"/>
+  <img src="C:\Users\Emeline\Documents\SiteEmy\français.png" alt="drapeau français"/><br>
+  
+<a href="C:/Users/Emeline/Documents/SiteEmy/HTML2Anglais.html" title="Traduction Anglaise">English</a> | <a href="C:/Users/Emeline/Documents/SiteEmy/HTML1.html" title="Traduction Française">Français</a>
+</p><br>
+
+</header><br>
+
+
+
+<section>
+
+	<h2>Qui suis-je ?</h2><br>
+
+	<p class="emeline">Salut, moi c'est Emeline, j'ai 24 ans et je réside à Troyes.<br> 
+La présentation c'est pas mon fort ^^' mais voici qui je suis : <br>
+Je possède un tempérament plutôt calme, je suis créative et la patience est une de mes caractéristiques qui se couple très bien à ma créativité.<br> 
+Quelque peu réservée, je suis toujours un peu dans ma bulle, j'aime me perdre dans mes idées et visualiser des futurs créations qu'importe le domaine.</p><br>
+<br>
+
+
+<p class="introliste">J'ai plusieurs passions, en voici un avant-goût :</p>
+
+<p>
+<ul class="liste">
+	<li><a href="#musique">La musique</a></li>
+	<li><a href="#nature">La nature</a></li>
+	<li><a href="#gaming">Les jeux vidéos</a></li>
+</ul>
+</p><br>
+<br>
+<br>
+
+<h3 id="musique"><p>La musique</p></h3>
+<p class="musique">Elément important de ma vie, c'est un véritable coup de foudre.<br>
+Découvrir des nouveautés quel que soit le genre musical, aller en concert, en festival y rencontrer d'autres passionnés.</p>
+
+ <p class="imgmusique"><a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_3514.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_3514_mini.jpg" alt="Photo de festival" title="De grand à petit festivals (Slovenie)" /></a>
+ <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_3149.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_3149_mini.jpg" alt="Photo de concert" title="Petit à grand concerts (Paris)" /></a>
+ <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_6954.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_6954_mini.jpg" alt="Photo de concert privé" title="Et moments fort & proche avec les artistes" /></a></p><br>
+<br>
+<br>
+<br>
+<br>
+
+<h3 id="nature"><p>La nature</p></h3>
+<p class="nature">Aussi bien la faune que la flore, j'aime me perdre durant une randonnée à la montagne.<br>
+Je possède aussi un lien très fort avec les animaux, c'est ce qui me poussa à travailler dans le domaine animalier.</p>
+
+ <p class="imgmontagne"><a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_0066.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_0066_mini.jpg" alt="Photo de montagne" title="Prendre de la hauteur" /></a></p> 
+
+ <p class="imganimaux"><a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_0491.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_0491_mini.jpg" alt="Photo de chat" title="Oeil de Chat" /></a>
+ <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_E4997.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_E4997_mini.jpg" alt="Photo de crocodile" title="Clique pour me voir plus grand, je ne mords pas" /></a></p>
+
+ <p class="imgrando"><a href="C:\Users\Emeline\Documents\SiteEmy\IMG\IMG_2720.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\IMG_2720_mini.jpg" alt="Photo de randonnée" title="Photo de randonnée dans le Rhône-Alpes" /></a></p><br>
+<br>
+<br>
+<br>
+<br>
+
+<h3 id="gaming"><p>Les jeux vidéo</p></h3>
+<p class="jeuxvideo">Il fallait bien en parler : RPG, FPS, Versus fighting, Rogue like...<br>
+Bref tout ce qui se joue avec une manette ou un clavier et une souris.<br> 
+C'est ce qui a développé mon intérêt pour le numérique en règle générale.</p>
+
+ <p class="imgjeuxvideo"><a href="C:\Users\Emeline\Documents\SiteEmy\IMG\Horizon Zero Dawn™_20170513214608.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\Horizon Zero Dawn™_20170513214608_mini.jpg" alt="ScreenJeuxVideoHorizon(1)" title="Horizon" /></a>
+   <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\Horizon Zero Dawn™_20170722180259.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\Horizon Zero Dawn™_20170722180259_mini.jpg" alt="ScreenJeuxVideoHorizon(2)" title="Horizon" /></a>
+ <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\Horizon Zero Dawn™_20170723180631.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\Horizon Zero Dawn™_20170723180631_mini.jpg" alt="ScreenJeuxVideoHorizon(3)" title="Horizon" /></a>
+   <a href="C:\Users\Emeline\Documents\SiteEmy\IMG\reddead210144.jpg"><img src="C:\Users\Emeline\Documents\SiteEmy\IMG Mini\reddead210144_mini.jpg" alt="ScreenJeuxVideoRDR2" title="Red Dead Redemption 2" /></a><br>
+
+<em>~ Toutes les photos sont produites par mes soins. Veuillez respecter le droit d'image s'il vous plaît. ~</em></p><br>
+ <br>
+ <br>
+
+</section>
+
+
+<section>
+
+<h2>Projets</h2>
+
+<p class="projets">Depuis mon plus jeune âge, j'éprouve un intérêt certain pour l'univers du numérique.<br>
+Comme beaucoup de personnes de ma génération, j'ai grandit avec les jeux vidéos et les nouvelles technologies ce qui m'ont aidés à développer des compétences dans ces domaines.<br>
+Durant mon adolescence, j'ai commencée à m'intéresser à la sécurité des comptes via les réseaux sociaux ainsi que les données personnelles qui circules sur ces sites.<br>
+Aujourd'hui, je souhaites me former puis travailler dans cet univers qui m'a toujours attirée.<br>
+La <mark>cybersécurité</mark> et la <mark>modélisation 3D</mark> sont les spécialités qui m'intéresse le plus.<br> 
+J'ai dores et déjà commencer à apprendre le développement web, d'où ce modeste site qui sera améliorer au fur et à mesure que j'apprends.</p>
+
+<p class="signature">Emeline.C</p><br>
+<br>
+</section>
+<br>
+<br>
+
+<footer>
+  <p>
+    <strong>Me contacter :</strong> emeline10pro@gmail.com<br>
+    <br>
+    <strong>CV :</strong> <a href="CV2022.zip"> Télécharger le fichier</a><br>
+  </p>
+</footer>
+
+
+</body>
+</html>
